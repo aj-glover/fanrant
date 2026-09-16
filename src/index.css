@@ -1,1 +1,78 @@
 @import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Roboto', sans-serif;
+  background-color: #0a1628;
+  overscroll-behavior: none;
+}
+
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.safe-area-top {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
+input, select, textarea {
+  font-size: 16px !important;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a1628;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 3px;
+}
+
+::selection {
+  background-color: rgba(34, 211, 238, 0.3);
+  color: white;
+}
+
+*:focus-visible {
+  outline: 2px solid rgba(34, 211, 238, 0.5);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+a, button {
+  transition: all 0.2s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+@media (max-width: 768px) {
+  button {
+    min-height: 44px;
+  }
+  body {
+    overflow-x: hidden;
+  }
+}
+
+* {
+  -webkit-overflow-scrolling: touch;
+}
+
+html {
+  overscroll-behavior: none;
+}
