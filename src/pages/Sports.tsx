@@ -75,7 +75,7 @@ export default function Sports() {
         </div>
       </div>
 
-      <BottomNav active="sports" />
+      <BottomNav active="teams" />
     </div>
   );
 }

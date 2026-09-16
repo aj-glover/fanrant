@@ -111,7 +111,7 @@ export default function TeamPage() {
           </div>
         </div>
       </div>
-      <BottomNav active="settings" />
+      <BottomNav active="profile" />
     </div>
   );
 }

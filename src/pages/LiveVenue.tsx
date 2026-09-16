@@ -1,4 +1,5 @@
 import { useNavigate } from 'react-router-dom';
+import BottomNav from '../components/BottomNav';
 
 export default function LiveVenue() {
   const navigate = useNavigate();
@@ -117,6 +118,7 @@ export default function LiveVenue() {
           </div>
         </div>
       </div>
+      <BottomNav active="live" />
     </div>
   );
 }

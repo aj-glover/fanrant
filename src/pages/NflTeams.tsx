@@ -56,7 +56,7 @@ export default function NflTeams() {
           ))}
         </div>
       </div>
-      <BottomNav active="scores" />
+      <BottomNav active="teams" />
     </div>
   );
 }

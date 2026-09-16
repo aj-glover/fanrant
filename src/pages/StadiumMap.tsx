@@ -1,5 +1,6 @@
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
+import BottomNav from '../components/BottomNav';
 
 export default function StadiumMap() {
   const navigate = useNavigate();
@@ -177,6 +178,7 @@ export default function StadiumMap() {
           </div>
         </div>
       </div>
+      <BottomNav active="venues" />
     </div>
   );
 }

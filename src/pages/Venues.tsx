@@ -53,7 +53,7 @@ export default function Venues() {
           ))}
         </div>
       </div>
-      <BottomNav active="photos" />
+      <BottomNav active="venues" />
     </div>
   );
 }
