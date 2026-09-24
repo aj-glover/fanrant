@@ -1,9 +1,71 @@
 # FanRant
 
-![FanRant title screen](docs/screenshots/title-screen.png)
-FanRant is a sports fan experience app built with React, Vite, and TypeScript. It gives fans a way to browse teams, follow live venue activity, find concessions, stream match moments, and stay connected to the game-day atmosphere.
+The Operating System for the Live Fan Experience
 
-## Features
+![FanRant title screen](docs/screenshots/title-screen.png)
+
+FanRant is a mobile-first web application that transforms the stadium experience by combining real-time venue intelligence, food ordering from your seat, and comprehensive team and venue information in one place.
+
+## Overview
+
+FanRant solves the chaos of attending live sporting events by consolidating everything fans need into a single, intuitive platform. No more switching between multiple apps for tickets, maps, parking, food, and real-time updates.
+
+### Core value proposition
+
+- Order food delivered to your seat
+- See live restroom and concession wait times
+- Navigate venues with an interactive stadium map
+- Access team information, schedules, and news
+- Never miss a moment of the game
+
+## Key Features
+
+### Order Food From Your Seat
+
+- Browse concession menus with real-time wait times
+- Add items to cart with quantity tracking
+- View popular items and full menu selections
+- See delivery location for your seat
+- Track cart totals and item counts in real time
+
+### Live Venue Wait Times
+
+- Real-time restroom availability by section
+- Concession stand queue lengths and wait times
+- Color-coded status indicators for low, medium, and high traffic
+- Visual progress bars showing current availability
+- Live updates with pulsing system indicators
+
+### Interactive Stadium Map
+
+- Filter by restroom, food, entrances, and parking locations
+- See your current location on the map
+- Tap markers for detailed information
+- View nearby locations with distances
+- Explore venue navigation in a compact mobile-first layout
+
+### Team and League Information
+
+- Browse NFL teams by division
+- View schedules, records, and stats
+- Access key team and venue details quickly
+- Explore team pages with a sports-media feel
+- Get a clear fan-first overview of the experience
+
+### News Feed and Updates
+
+- Featured articles and updates
+- Recent live content and venue information
+- Team-specific announcements and timely news
+- Social-style feed experience built for peak event energy
+
+### Video Playback
+
+- Video playback controls with progress tracking
+- Related content suggestions and quick media browsing
+- Built for fans who want a quick recap or live-to-now experience
+
+## Feature Summary
 
 - Team discovery and league browsing for NFL teams
 - Team detail pages with standout stats and highlights
@@ -45,13 +107,12 @@ src/
   pages/
   App.tsx
   main.tsx
-public/
-  none
+
+docs/
+  screenshots/
 ```
 
 ## Screenshots
-
-
 
 ### Home screen
 
