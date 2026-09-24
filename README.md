@@ -61,6 +61,22 @@ public/
 
 ![FanRant sports screen](docs/screenshots/sports-updated.png)
 
+### Venue discovery
+
+![FanRant venues screen](docs/screenshots/venues.png)
+
+### Live venue experience
+
+![FanRant live venue screen](docs/screenshots/live-venue.png)
+
+### Fan feed
+
+![FanRant feed screen](docs/screenshots/feed.png)
+
+### Food ordering
+
+![FanRant order food screen](docs/screenshots/order-food.png)
+
 ### App branding
 
 ![FanRant icon](public/fanrant-icon.svg)
