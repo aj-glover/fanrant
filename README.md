@@ -55,11 +55,11 @@ public/
 
 ### Home screen
 
-![FanRant home screen](docs/screenshots/home.png)
+![FanRant home screen](docs/screenshots/home-updated.png)
 
 ### Sports browsing
 
-![FanRant sports screen](docs/screenshots/sports.png)
+![FanRant sports screen](docs/screenshots/sports-updated.png)
 
 ### App branding
 
