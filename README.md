@@ -1,5 +1,6 @@
 # FanRant
 
+![FanRant title screen](docs/screenshots/title-screen.png)
 FanRant is a sports fan experience app built with React, Vite, and TypeScript. It gives fans a way to browse teams, follow live venue activity, find concessions, stream match moments, and stay connected to the game-day atmosphere.
 
 ## Features
@@ -50,9 +51,7 @@ public/
 
 ## Screenshots
 
-### Title screen
 
-![FanRant title screen](docs/screenshots/title-screen.png)
 
 ### Home screen
 
