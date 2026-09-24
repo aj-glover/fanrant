@@ -1,0 +1,69 @@
+<svg width="1400" height="800" viewBox="0 0 1400 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081A2D"/>
+      <stop offset="0.55" stop-color="#102A43"/>
+      <stop offset="1" stop-color="#0C1724"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF9B43"/>
+      <stop offset="1" stop-color="#FF5E5B"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6EE7B7"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="800" fill="url(#bg)"/>
+  <circle cx="1200" cy="120" r="220" fill="#102A43" opacity="0.9"/>
+  <circle cx="210" cy="680" r="260" fill="#0F253A" opacity="0.8"/>
+  <circle cx="1270" cy="700" r="120" fill="#122B3F" opacity="0.8"/>
+
+  <g opacity="0.2">
+    <path d="M80 285C260 205 400 205 575 285" stroke="#7DD3FC" stroke-width="6" stroke-linecap="round"/>
+    <path d="M760 250C960 170 1160 200 1310 290" stroke="#7DD3FC" stroke-width="6" stroke-linecap="round"/>
+    <path d="M150 560C330 635 515 625 700 560" stroke="#7DD3FC" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <rect x="116" y="146" width="316" height="510" rx="42" fill="#0B1F33" stroke="#29496B" stroke-width="4"/>
+    <rect x="135" y="175" width="278" height="385" rx="22" fill="#142C43"/>
+    <rect x="212" y="171" width="122" height="8" rx="4" fill="#6EE7B7" opacity="0.8"/>
+    <rect x="161" y="236" width="90" height="96" rx="18" fill="url(#accent)"/>
+    <rect x="267" y="236" width="120" height="16" rx="8" fill="#D9F1FF" opacity="0.9"/>
+    <rect x="267" y="270" width="98" height="12" rx="6" fill="#D9F1FF" opacity="0.6"/>
+    <rect x="267" y="295" width="110" height="12" rx="6" fill="#D9F1FF" opacity="0.4"/>
+    <rect x="160" y="360" width="228" height="110" rx="18" fill="#122F46"/>
+    <circle cx="218" cy="416" r="34" fill="url(#green)"/>
+    <path d="M203 416L214 428L236 404" stroke="#0F172A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="265" y="385" width="82" height="12" rx="6" fill="#D9F1FF" opacity="0.85"/>
+    <rect x="265" y="411" width="104" height="12" rx="6" fill="#D9F1FF" opacity="0.65"/>
+    <rect x="265" y="437" width="72" height="12" rx="6" fill="#D9F1FF" opacity="0.4"/>
+  </g>
+
+  <g>
+    <path d="M680 250H966C983 250 997 264 997 281V521C997 538 983 552 966 552H680C663 552 649 538 649 521V281C649 264 663 250 680 250Z" fill="#0E2339" stroke="#2B4B6D" stroke-width="4"/>
+    <rect x="678" y="285" width="283" height="206" rx="20" fill="#1A3352"/>
+    <rect x="718" y="311" width="106" height="18" rx="9" fill="#77E6D1"/>
+    <rect x="718" y="349" width="202" height="12" rx="6" fill="#D8EAF8" opacity="0.75"/>
+    <rect x="718" y="376" width="170" height="12" rx="6" fill="#D8EAF8" opacity="0.45"/>
+    <rect x="718" y="428" width="86" height="46" rx="12" fill="url(#accent)"/>
+    <rect x="816" y="428" width="86" height="46" rx="12" fill="#0EA5E9"/>
+    <rect x="806" y="484" width="145" height="12" rx="6" fill="#D8EAF8" opacity="0.65"/>
+  </g>
+
+  <g>
+    <path d="M1037 210L1172 170L1248 286L1160 321L1037 210Z" fill="#FF9961" opacity="0.9"/>
+    <path d="M1115 355L1262 306L1322 424L1174 477L1115 355Z" fill="#68D6B2" opacity="0.88"/>
+    <circle cx="1218" cy="348" r="58" fill="#122A3F"/>
+    <path d="M1183 348L1206 370L1253 324" stroke="#81F4CF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <text x="610" y="410" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="110" font-weight="800" letter-spacing="8">FANRANT</text>
+    <text x="610" y="490" fill="#A8D8FF" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="6">SPORTS • VENUES • ENERGY</text>
+    <rect x="610" y="524" width="232" height="12" rx="6" fill="url(#accent)"/>
+    <rect x="857" y="524" width="126" height="12" rx="6" fill="#78DCC7"/>
+  </g>
+</svg>

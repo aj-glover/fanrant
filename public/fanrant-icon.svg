@@ -1,0 +1,30 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1D31"/>
+      <stop offset="1" stop-color="#102E47"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="118" x2="389" y2="397" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB067"/>
+      <stop offset="1" stop-color="#FF5F5F"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="166" y1="152" x2="346" y2="358" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7AE7C6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="190" fill="#122E48"/>
+  <circle cx="256" cy="256" r="152" fill="#10263F" stroke="#35567A" stroke-width="4"/>
+
+  <path d="M128 294L200 212L256 272L312 212L384 294V346C384 377.137 357.137 404 326 404H186C154.863 404 128 377.137 128 346V294Z" fill="url(#accent)"/>
+  <path d="M171 234L206 186H306L341 234L256 304L171 234Z" fill="#F7FAFF" opacity="0.22"/>
+
+  <circle cx="256" cy="240" r="54" fill="url(#glow)"/>
+  <path d="M229 240L247 258L284 222" stroke="#0A1522" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="188" y="328" width="136" height="18" rx="9" fill="#E7F5FF" opacity="0.9"/>
+  <rect x="188" y="358" width="104" height="12" rx="6" fill="#E7F5FF" opacity="0.6"/>
+  <rect x="188" y="380" width="90" height="12" rx="6" fill="#E7F5FF" opacity="0.35"/>
+</svg>
