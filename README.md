@@ -45,10 +45,14 @@ src/
   App.tsx
   main.tsx
 public/
-  fanrant-icon.svg
+  none
 ```
 
 ## Screenshots
+
+### Title screen
+
+![FanRant title screen](docs/screenshots/title-screen.png)
 
 ### Home screen
 
@@ -60,11 +64,11 @@ public/
 
 ### Venue discovery
 
-![FanRant venues screen](docs/screenshots/venues.png)
+![FanRant venues screen](docs/screenshots/venues-2.png)
 
 ### Live venue experience
 
-![FanRant live venue screen](docs/screenshots/live-venue.png)
+![FanRant live venue screen](docs/screenshots/live-venue-2.png)
 
 ### Fan feed
 
@@ -73,10 +77,6 @@ public/
 ### Food ordering
 
 ![FanRant order food screen](docs/screenshots/order-food.png)
-
-### App branding
-
-![FanRant icon](public/fanrant-icon.svg)
 
 ## Notes
 
