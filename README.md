@@ -2,8 +2,6 @@
 
 FanRant is a sports fan experience app built with React, Vite, and TypeScript. It gives fans a way to browse teams, follow live venue activity, find concessions, stream match moments, and stay connected to the game-day atmosphere.
 
-![FanRant banner](public/fanrant-banner.svg)
-
 ## Features
 
 - Team discovery and league browsing for NFL teams
@@ -47,7 +45,6 @@ src/
   App.tsx
   main.tsx
 public/
-  fanrant-banner.svg
   fanrant-icon.svg
 ```
 
