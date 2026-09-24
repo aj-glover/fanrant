@@ -53,6 +53,14 @@ public/
 
 ## Screenshots
 
+### Home screen
+
+![FanRant home screen](docs/screenshots/home.png)
+
+### Sports browsing
+
+![FanRant sports screen](docs/screenshots/sports.png)
+
 ### App branding
 
 ![FanRant icon](public/fanrant-icon.svg)
